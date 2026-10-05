@@ -91,3 +91,7 @@ dotnet publish RegexFileName.csproj -p:PublishProfile=FolderProfile
 ```
 
 or use **Publish** in Visual Studio.
+
+## License
+
+[MIT](LICENSE)
